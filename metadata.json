@@ -1,0 +1,6 @@
+{
+  "name": "Chennai Transit 3D",
+  "description": "Interactive 3D transit network explorer, journey planner, station directory, and real-time train tracking for Chennai Metro, MRTS, and Suburban rail networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

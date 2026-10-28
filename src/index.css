@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+html.high-contrast {
+  filter: contrast(1.15);
+}
+
+html.high-contrast .border-slate-800 {
+  border-color: #475569 !important;
+}
+
+html.high-contrast .text-slate-400 {
+  color: #cbd5e1 !important;
+}
+
+html.reduce-motion *,
+html.reduce-motion *::before,
+html.reduce-motion *::after {
+  animation-duration: 0.001ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.001ms !important;
+}
+
+html.text-large {
+  font-size: 110%;
+}
