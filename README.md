@@ -1,4 +1,4 @@
-# Chennai Transit (சென்னை போக்குவரத்து)
+# ChennaiGo
 ### Smart Public Transport Guide · Multi-Modal Transit Explorer
 
 An interactive, high-contrast transit network guide and intelligent journey planner for Chennai's public transportation network — covering Chennai Metro Rail (Phase I & II), Southern Railway Suburban trains (North, South, West, and West–South Link lines), and the elevated Mass Rapid Transit System (MRTS).
